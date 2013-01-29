@@ -2,7 +2,7 @@
 <manifest>
 
   <remote  name="aircell"
-           fetch="git://asp2.lab.aircell.com/" />
+           fetch="git@asp2.lab.aircell.com/" />
 
   <default revision="master"
            remote="aircell"
