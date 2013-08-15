@@ -25,7 +25,7 @@ Progressively add totals (1.. 2.. 3), or show individual values (1.. 1.. 1).
 </msg>
 <msg name="gadget.common.advanced.search">Advanced Search</msg>
 <msg name="gadget.common.issuesresolved">Issues Resolved</msg>
-<msg name="gadget.common.oauth.approve.button">Login & approve</msg>
+<msg name="gadget.common.oauth.approve.button">Login approve</msg>
 <msg name="gadget.common.categories.all">All Categories</msg>
 <msg name="gadget.common.days.description">Days (including today) to show in the graph.</msg>
 <msg name="gadget.common.cumulative.label">Cumulative Totals:</msg>
@@ -232,7 +232,7 @@ Progressively add totals (1.. 2.. 3), or show individual values (1.. 1.. 1).
 </msg>
 <msg name="gadget.common.advanced.search">Advanced Search</msg>
 <msg name="gadget.common.issuesresolved">Issues Resolved</msg>
-<msg name="gadget.common.oauth.approve.button">Login & approve</msg>
+<msg name="gadget.common.oauth.approve.button">Login approve</msg>
 <msg name="gadget.common.categories.all">All Categories</msg>
 <msg name="gadget.common.days.description">Days (including today) to show in the graph.</msg>
 <msg name="gadget.common.cumulative.label">Cumulative Totals:</msg>
