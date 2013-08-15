@@ -433,12 +433,12 @@ Structure<span class="aui-icon icon-required"></span>
 </messagebundle>
 </Locale>
 </ModulePrefs>
-<UserPref name="structureId" value="132" datatype="hidden"/>
-<UserPref name="viewId" value="10" datatype="hidden"/>
-<UserPref name="filterId" value="" datatype="hidden"/>
-<UserPref name="numRows" value="20" datatype="hidden" default_value="10"/>
-<UserPref name="isConfigured" value="true" datatype="hidden" default_value="false"/>
-<UserPref name="allowChanges" value="false" datatype="hidden" default_value="true"/>
+<UserPref name="structureId" default_value="132" datatype="hidden"/>
+<UserPref name="viewId" default_value="10" datatype="hidden"/>
+<UserPref name="filterId" default_value="" datatype="hidden"/>
+<UserPref name="numRows" default_value="20" datatype="hidden" default_value="10"/>
+<UserPref name="isConfigured" default_value="true" datatype="hidden" default_value="false"/>
+<UserPref name="allowChanges" default_value="false" datatype="hidden" default_value="true"/>
 <Content type="html">
 <![CDATA[
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
